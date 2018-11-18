@@ -1,4 +1,4 @@
-# vba-html-data
+# vba-html
 
 Scraping data from a website (html) using visual basic for applications.
 
