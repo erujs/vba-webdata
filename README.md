@@ -1,11 +1,17 @@
-# vba-html
+## vba-html
 
 Scraping data from a website's html using visual basic for applications.
 
-# How to use vba module:
+### importing vba module:
 
-. Open workbook in Excel <br>
-. Press `Alt + F1` to open Visual Basic Editor (VBE). <br>
-. Right-click on your workbook name in the 'Project-VBAProject' pane (at the top left corner of the editor window) 
-  and select Insert -> Module from the context menu. <br>
-. Copy the VBA code (from a web-page etc.) and paste it to the right pane of the VBA editor ("Module1" window). <br>
+- open workbook in Excel <br>
+- press `Alt + F11` to open Visual Basic Editor. <br>
+- `Right-click` on Project-VBAProject Window and select `Import File` <br>
+- navigate the `.bas` file to be imported <br>
+
+### create vba module
+
+- goto Visual Basic Editor <br>
+- `Right-click` on Project-VBAProject Window and select `Insert` &rarr; `Module` from the context menu. <br>
+- start coding :blush: <br>
+- to run the code: simply press `F5` to execute the whole code or `F8` to run it by line.
