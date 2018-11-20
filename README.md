@@ -1,6 +1,6 @@
 # vba-html
 
-Scraping data from a website (html) using visual basic for applications.
+Scraping data from a website's html using visual basic for applications.
 
 # How to use vba module:
 
