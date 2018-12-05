@@ -1,6 +1,6 @@
-## vba-html
+## vba-webdata
 
-Scraping data from a website's html using visual basic for applications.
+Scraping data from a webpage with getElements using Visual Basic for Applications 
 
 ### importing vba module:
 
