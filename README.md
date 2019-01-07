@@ -13,5 +13,5 @@ Scraping data from a webpage with getElements using Visual Basic for Application
 
 - goto Visual Basic Editor <br>
 - `Right-click` on Project-VBAProject Window and select `Insert` &rarr; `Module` from the context menu <br>
-- start coding :blush: <br>
+- start coding :heart: <br>
 - to run the code: simply press `F5` to execute the whole code or `F8` to run it by line
