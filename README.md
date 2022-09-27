@@ -2,10 +2,15 @@
 
 Scraping data from a webpage with getElements using Visual Basic for Applications.
 
-### Importing VBA module:
+### Enable developer mode on Excel
 
-- open workbook in Excel <br>
-- press `Alt + F11` to open Visual Basic Editor <br>
+- in Excel click File tab and goto Options
+- in Options, navigate to Customize Ribbon
+- under Main tabs, ensure that the checkbox for Developer is in check
+
+### Importing VBA module
+
+- in Developer tab click Visual Basic to open the editor
 - `Right-click` on Project-VBAProject Window and select `Import File` <br>
 - navigate the `.bas` file to be imported <br>
 
